@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{28926432-D863-4D43-A9CD-95AF4CE53966}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorDemo", "MediatorDemo\MediatorDemo.csproj", "{58870170-EEF3-43B1-AEB9-1BDBDF97441D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{28926432-D863-4D43-A9CD-95AF4CE53966}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28926432-D863-4D43-A9CD-95AF4CE53966}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28926432-D863-4D43-A9CD-95AF4CE53966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58870170-EEF3-43B1-AEB9-1BDBDF97441D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58870170-EEF3-43B1-AEB9-1BDBDF97441D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58870170-EEF3-43B1-AEB9-1BDBDF97441D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58870170-EEF3-43B1-AEB9-1BDBDF97441D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

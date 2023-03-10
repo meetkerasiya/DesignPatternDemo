@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\MediatorDemo.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\MediatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\MediatorDemo.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\MediatorDemo.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\MediatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\bin\Debug\net7.0\MediatorDemo.exe
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\bin\Debug\net7.0\MediatorDemo.deps.json
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\bin\Debug\net7.0\MediatorDemo.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\bin\Debug\net7.0\MediatorDemo.dll
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\bin\Debug\net7.0\MediatorDemo.pdb
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\MediatorDemo.dll
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\refint\MediatorDemo.dll
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\MediatorDemo.pdb
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\MediatorDemo.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\MediatorDemo\obj\Debug\net7.0\ref\MediatorDemo.dll
