@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPatternDemo", "Obse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDemo", "StrategyDemo\StrategyDemo.csproj", "{8FBA5A67-80D4-4200-ACB5-5779819F556A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfRespnsibilityDemo", "ChainOfRespnsibilityDemo\ChainOfRespnsibilityDemo.csproj", "{8D838694-4E39-4F72-A0FF-BA4652B807C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8FBA5A67-80D4-4200-ACB5-5779819F556A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FBA5A67-80D4-4200-ACB5-5779819F556A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FBA5A67-80D4-4200-ACB5-5779819F556A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D838694-4E39-4F72-A0FF-BA4652B807C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D838694-4E39-4F72-A0FF-BA4652B807C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D838694-4E39-4F72-A0FF-BA4652B807C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D838694-4E39-4F72-A0FF-BA4652B807C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
