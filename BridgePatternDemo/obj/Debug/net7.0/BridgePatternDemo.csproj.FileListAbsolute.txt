@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\bin\Debug\net7.0\BridgePatternDemo.exe
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\bin\Debug\net7.0\BridgePatternDemo.deps.json
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\bin\Debug\net7.0\BridgePatternDemo.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\bin\Debug\net7.0\BridgePatternDemo.dll
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\bin\Debug\net7.0\BridgePatternDemo.pdb
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\BridgePatternDemo.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\BridgePatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\BridgePatternDemo.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\BridgePatternDemo.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\BridgePatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\BridgePatternDemo.dll
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\refint\BridgePatternDemo.dll
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\BridgePatternDemo.pdb
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\BridgePatternDemo.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\BridgePatternDemo\obj\Debug\net7.0\ref\BridgePatternDemo.dll
