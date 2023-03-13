@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\bin\Debug\net7.0\StrategyDemo.exe
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\bin\Debug\net7.0\StrategyDemo.deps.json
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\bin\Debug\net7.0\StrategyDemo.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\bin\Debug\net7.0\StrategyDemo.dll
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\bin\Debug\net7.0\StrategyDemo.pdb
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\StrategyDemo.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\StrategyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\StrategyDemo.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\StrategyDemo.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\StrategyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\StrategyDemo.dll
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\refint\StrategyDemo.dll
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\StrategyDemo.pdb
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\StrategyDemo.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\DesignPatternDemo\StrategyDemo\obj\Debug\net7.0\ref\StrategyDemo.dll
